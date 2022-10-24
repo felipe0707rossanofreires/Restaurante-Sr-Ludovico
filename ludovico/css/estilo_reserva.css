@@ -1,0 +1,29 @@
+/* Borda */
+.caixa{
+    margin: 20px auto;
+    border: 3px solid rgb(148, 148, 148);
+    background-color: rgb(235, 222, 197);
+    width: 90%;
+    text-align: center;
+}
+
+#reserva{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.espaco{
+    width: 100px;
+}
+/* Rodapé */
+footer{
+    height: 100px;
+}
+
+/* Imagem rodapé */
+#fotos{
+    width: 80px;
+    height: 70px;
+}

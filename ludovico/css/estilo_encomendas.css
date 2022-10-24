@@ -1,0 +1,47 @@
+#caixa{
+    margin: 20px auto;
+    border: 3px solid rgb(148, 148, 148);
+    background-color: rgb(235, 222, 197);
+    width: 90%;
+    text-align: center;
+}
+
+#foto{
+    width: 40%;
+}
+
+#texto{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#conteudo{
+    font-size: medium;
+}
+
+.icone{
+    padding-left: 40%;
+    float: left;
+    width: 3%;
+}
+
+.telefone{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 1%;
+    padding-right: 39%;
+    text-align: left;
+}
+
+/* Rodapé */
+footer{
+    height: 120px;
+}
+
+/* Imagem rodapé */
+#fotos{
+    width: 80px;
+    height: 70px;
+}

@@ -1,0 +1,43 @@
+/* Menu */
+main{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Borda */
+.caixa{
+    margin: 20px auto;
+    border: 3px solid rgb(148, 148, 148);
+    background-color: rgb(235, 222, 197);
+    width: 90%;
+}
+
+
+/* Título do tema abordado */
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+/* Conteúdo */
+.materia{
+    font-size: large;
+}
+
+/* Imagens */
+#foto{
+    width: 50%;
+    height: 60%;
+}
+
+/* Rodapé */
+footer{
+    height: 120px;
+}
+
+/* Imagem rodapé */
+#fotos{
+    width: 80px;
+    height: 70px;
+}

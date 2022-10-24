@@ -1,0 +1,50 @@
+.caixa{
+    margin: 20px auto;
+    border: 3px solid rgb(148, 148, 148);
+    background-color: rgb(235, 222, 197);
+    width: 90%;
+}
+
+#titulo{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 40px;
+    text-align: center;
+}
+
+form{
+    padding-left: 5%;
+}
+label{
+    font-size: small;
+    font-weight: bold;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    float: right;
+    padding-right: 45%;
+}
+
+#genero{
+    font-size: 15px;
+}
+
+#submit{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px 20px;
+}
+
+/* Rodapé */
+footer{
+    height: 120px;
+}
+
+/* Imagem rodapé */
+#fotos{
+    width: 80px;
+    height: 70px;
+}

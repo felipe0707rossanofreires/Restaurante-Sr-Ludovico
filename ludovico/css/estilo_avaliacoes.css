@@ -1,0 +1,42 @@
+#caixa{
+    margin: 20px auto;
+    border: 3px solid rgb(148, 148, 148);
+    background-color: rgb(235, 222, 197);
+    width: 90%;
+}
+
+#titulo{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 40px;
+    text-align: center;
+}
+
+.estrela{
+    width:7%;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    font-size: 10px;
+    padding-left: 3%;
+}
+
+.imagem{
+    width: 250px;
+    height: 200px;
+}
+
+
+/* Rodapé */
+footer{
+    height: 120px;
+}
+
+/* Imagem rodapé */
+#fotos{
+    width: 80px;
+    height: 70px;
+}

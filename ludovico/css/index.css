@@ -1,0 +1,65 @@
+/* Zerando margem e espaçamento */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Cabeçalho */
+header{
+    background-color: rgb(179, 11, 11);
+    padding: 10px;
+    text-align: center;
+    height: 250px;
+}
+
+.logo{
+    width: 10%;
+    height: 10%;
+}
+
+/* Corpo */
+body{
+    background-color: rgb(15, 107, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    color: black;
+}
+
+/* Rodapé */
+footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(179, 11, 11);
+    height: 40px;
+}
+
+/*Barra de controle do site*/
+.titulo-site{
+    color:white;
+    display: inline-block;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+/* Formatação dos links */
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:link, a:visited{
+    color: rgb(255, 255, 255);
+}
+
+/* Trocar cor do link quando o cursor estiver em cima */
+a:hover{
+    border-radius: 20px 20px;
+    color: black;
+}
