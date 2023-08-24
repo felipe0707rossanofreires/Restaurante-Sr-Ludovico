@@ -1,2 +1,2 @@
-# Restaurante-Sr-Ludovico
-Site restaurante do Sr.Ludovico
+# Restaurante Sr. Ludovico
+Site e projeto de implementação do site: restaurante do Sr.Ludovico
